@@ -175,6 +175,3 @@ GET /api/report/<id>/
 🎨 6. Technologies Used
 ComponentTechnologyBackendDjango, DRFFrontendReact, Material UI, Chart.jsDesktop AppPyQt5, MatplotlibDatabaseSQLitePackagingPyInstallerVersion ControlGit + GitHub
 
-🎬 7. Demo Video Script (Use for submission)
-Intro:
-“My name is Sujay Devadiga. This is my IIT-Bombay Winter Internship project — a hybrid Chemical Equipment Parameter Visualizer.”
