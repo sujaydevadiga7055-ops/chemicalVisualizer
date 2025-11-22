@@ -1,5 +1,5 @@
 Chemical Equipment Parameter Visualizer
-A Hybrid IIT-Bombay Internship Project (Web + Desktop Application)
+
 This project implements a complete end-to-end chemical equipment analytics system consisting of:
 
 Django REST Backend
