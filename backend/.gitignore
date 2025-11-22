@@ -1,7 +1,12 @@
-# Python
 pycache/
 *.pyc
+*.pyo
+*.log
+env/
 venv/
+dist/
+build/
+*.spec
 
 # PyInstaller build artifacts
 desktop-app/build/
