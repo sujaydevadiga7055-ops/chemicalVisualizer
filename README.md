@@ -172,6 +172,6 @@ GET /api/history/
 GET /api/report/<id>/
 
 
-🎨 6. Technologies Used
+6. Technologies Used
 ComponentTechnologyBackendDjango, DRFFrontendReact, Material UI, Chart.jsDesktop AppPyQt5, MatplotlibDatabaseSQLitePackagingPyInstallerVersion ControlGit + GitHub
 
