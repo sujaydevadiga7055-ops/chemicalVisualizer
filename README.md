@@ -140,6 +140,7 @@ desktop-app/dist/ChemicalVisualizerDesktop.exe
 
 
  5. API Endpoints
+    
 1️⃣ Upload CSV
 POST /api/upload/
 file: <csv>
