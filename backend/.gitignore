@@ -1,0 +1,17 @@
+# Python
+pycache/
+*.pyc
+venv/
+
+# PyInstaller build artifacts
+desktop-app/build/
+desktop-app/dist/
+*.spec
+
+# Node (React)
+node_modules/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
